@@ -27,7 +27,17 @@ public class MAIN {
         // for(int numeroFor = 0; numeroFor < 3;numeroFor = numeroFor + 1){
         //     System.out.println(numeroFor);
         // }
-
+        String estacion = "Otono";
+            switch(estacion){
+                case "verano":
+                System.out.println("Es verano");
+                    break;
+                case "Invierno":
+                    System.out.println("Es invierno");
+                    break;
+                default:
+                    System.out.println("Es " + estacion);
+            }
     }
     // public static void soma(int a, int b, int c){
     //     int resultado;
