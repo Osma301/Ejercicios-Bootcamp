@@ -1,2 +1,0 @@
-# Ejercicios-Bootcamp
-Ejercicios Bootcamp
