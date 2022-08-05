@@ -1,3 +1,4 @@
+// Tarea Privacidad, abstracción y encapsulamiento :D
 public class TAREA2 {
     public static void TAREA(String[] args) {
         Persona edad = new Persona();
